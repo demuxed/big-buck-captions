@@ -14,4 +14,4 @@ Created for a lightning talk for [Demuxed 2022](https://2022.demuxed.com).
 
 ## License
 
-Creative Commons By Attribution 3.0
+[Creative Commons By Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
